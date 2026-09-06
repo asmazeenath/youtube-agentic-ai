@@ -33,7 +33,11 @@ Google Search and Streamlit.
 
 REQUIREMENTS:
 streamlit
-google-adk
+google-adk== 2.8.0
 google-genai
 python-dotenv── requirements.txt
-└── README.md
+└── README.m
+
+
+
+d
